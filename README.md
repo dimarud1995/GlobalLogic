@@ -1,4 +1,4 @@
 # GlobalLogic
-1-UA
-2-UK
+1-UA\n
+2-UK\n
 You can add your language
