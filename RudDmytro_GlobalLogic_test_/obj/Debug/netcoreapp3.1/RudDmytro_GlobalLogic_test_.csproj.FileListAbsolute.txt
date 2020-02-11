@@ -1,0 +1,11 @@
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.exe
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.deps.json
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.runtimeconfig.json
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.runtimeconfig.dev.json
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.dll
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\bin\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.pdb
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\obj\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.csprojAssemblyReference.cache
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\obj\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\obj\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.AssemblyInfo.cs
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\obj\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.dll
+C:\Users\dimar\source\repos\RudDmytro_GlobalLogic_test_\RudDmytro_GlobalLogic_test_\obj\Debug\netcoreapp3.1\RudDmytro_GlobalLogic_test_.pdb
